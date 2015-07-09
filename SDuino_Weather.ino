@@ -1,7 +1,7 @@
 /*
  * SDuino_sensor, primitive weather forcasting program
  * July 9, 2015 by kodera2t
- * This program requires "Adafruit_MPL115A2 libraray"
+ * This program requires "Adafruit_MPL115A2 libraly"
  * Forthcoming climate is predicted by the delivative of pressure value
  * of last 2 hours. Every two hours, SDuino_sensor will sense pressure and taking
  * delivative of them. First forcast will be shown 2 hours after power supplied.
